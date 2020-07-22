@@ -1,2 +1,1 @@
-# Childhood_Obesity_Project
-# This project is completed using R
+# Childhood_Obesity_Project with R
